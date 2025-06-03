@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54f02f6b71b094b4183068b5b5c5a954, type: 3}
+  m_Name: Railgun
+  m_EditorClassIdentifier: 
+  gunName: railgun
+  prefab: {fileID: 1929547583756616571, guid: f19c92cb379dd2e44ae9d862b6a27eac, type: 3}
+  shotForce: 30
+  weaponSpread: 0
+  fireRate: 0.5
